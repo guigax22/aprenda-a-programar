@@ -1,8 +1,8 @@
-let name = "Guilherme";
-let email = "gs164994gmail.com";
-let profissao = "estudante";
-let idade = 21;
-let lugar = "Cape Town"
+let name = String;
+let email = String;
+let profissao = String;
+let idade = Number;
+let lugar = String
 
 
 
